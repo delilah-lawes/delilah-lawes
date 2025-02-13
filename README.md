@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Delilah
 
-Final year Computer Science student at the University of Birmingham, passionate about creating tech that makes a difference. Currently researching privacy and security in FemTech for my dissertation! ✨
+A final year Computer Science student at the University of Birmingham, passionate about tech that makes a difference. Currently researching privacy and security in FemTech for my dissertation! ✨
 
 ## What I'm up to
 - 🎓 Working on my dissertation exploring privacy in health tech
