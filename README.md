@@ -6,7 +6,7 @@ Final year Computer Science student at the University of Birmingham, passionate 
 - 🎓 Working on my dissertation exploring privacy in health tech
 - 👩‍🏫 Teaching HTML, CSS, and JavaScript in a high school Web Dev club
 - 🔐 Learning more about cybersecurity through CTFs and projects
-- 🌱 Always picking up new skills through online courses
+- 🌱 Picking up new skills through online courses and certifications
 
 ## Tech Stack
 ### Programming
