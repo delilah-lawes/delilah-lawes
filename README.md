@@ -1,14 +1,20 @@
 # Hi there! 👋 I'm Delilah
 
-A final year Computer Science student at the University of Birmingham, passionate about tech that makes a difference. Currently researching privacy and security in FemTech for my dissertation! ✨
+A **First-Class Computer Science graduate** from the University of Birmingham 🎓. Passionate about building **tech that matters**, with a strong interest in **privacy, security, and ethical technology**.  
 
-## What I'm up to
-- 🎓 Working on my dissertation exploring privacy in health tech
-- 👩‍🏫 Teaching HTML, CSS, and JavaScript in a high school Web Dev club
-- 🔐 Learning more about cybersecurity through CTFs and projects
-- 🌱 Picking up new skills through online courses and certifications
+My dissertation explored **data privacy in FemTech**, using **static and dynamic analysis** tools (MobSF, Frida, Wireshark) to uncover how health tech handles sensitive personal data.  
 
-## Tech Stack
+---
+
+## 🚀 What I'm Up To
+- 🔐 Expanding my **cybersecurity skills** through CTFs, hackathons, and personal projects
+- 🌱 Exploring **Rust** and advanced **DevOps** practices
+- 🖥 Building small side projects to learn new frameworks and tools
+
+---
+
+## 🛠 Tech Stack
+
 ### Programming
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
@@ -23,6 +29,7 @@ A final year Computer Science student at the University of Birmingham, passionat
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white)
+![HTMX](https://img.shields.io/badge/-HTMX-336791?style=flat&logo=htmx&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
@@ -35,13 +42,23 @@ A final year Computer Science student at the University of Birmingham, passionat
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-## Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/delilah-lawes)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:me@delilahlawes.com)
+---
 
-## Stats & Activity
-[![CodeWars](https://img.shields.io/badge/CodeWars-5%20kyu-B1361E?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/lilah_lawes)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Active%20Learner-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/lilah_lawes/)
-[![Figma](https://img.shields.io/badge/Figma-Designer-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/@delilahL)
+## 🏆 Highlights & Achievements
+- 🎓 **First-Class Honours** in Computer Science (72.63% / 4.0 GPA)
+- 📜 Dissertation: *An Investigation of Privacy and Data Handling in FemTech Applications*
+- 🥇 Competitor in **BAE Systems CTF Hackathon 2023**
+- 🖥 Developed a **full-stack Django web app** with automated CI/CD pipelines
+- ✨ Designed a sustainability-focused mobile app concept with full UI/UX in Figma
 
+---
 
+## 🌐 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/delilah-lawes) [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://delilahlawes.com)  
+
+---
+
+## 📊 Stats & Activity
+[![CodeWars](https://img.shields.io/badge/CodeWars-5%20kyu-B1361E?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/lilah_lawes)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Active%20Learner-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/lilah_lawes/)  
+[![Figma](https://img.shields.io/badge/Figma-Designer-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/@delilahL)  
